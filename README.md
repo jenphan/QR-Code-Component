@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Submission](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://jenphan.github.io/QR-Code-Component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-css-custom-properties-and-flexbox-shf7qjFi11)
+- Live Site URL: [Live site](https://jenphan.github.io/QR-Code-Component/)
 
 ## My process
 
